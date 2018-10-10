@@ -4,7 +4,7 @@ Schulung "Maschinendaten sinnvoll nutzen"
 Cloud-Version ohne Installation
 -------------------------------
 
-Klicken Sie auf [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ChristianePl/schulung-sandbox/master), um eine interaktive Version dieses Repositorys zu öffnen.
+Klicken Sie auf [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ChristianePl/schulung-maschinendaten-sinnvoll-nutzen/master), um eine interaktive Version dieses Repositorys zu öffnen.
 
 Das kann einen Moment dauern!
 
