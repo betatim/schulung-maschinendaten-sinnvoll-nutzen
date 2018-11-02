@@ -1,5 +1,7 @@
-Schulung "Maschinendaten sinnvoll nutzen"
-=========================================
+Material zur Schulung "Maschinendaten sinnvoll nutzen"
+======================================================
+
+Dieses Repository gehört zum Online-Kurs "Digitalisierung? Mittelstand im Wandel!": https://www.oncampus.de/enrol/?id=134
 
 Cloud-Version ohne Installation
 -------------------------------
